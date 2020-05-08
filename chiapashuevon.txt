@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 1simon
+=======
+simon x2
+simon pinche chiaparas
+>>>>>>> Stashed changes
